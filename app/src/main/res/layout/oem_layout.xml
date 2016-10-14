@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#e0ffff" >
+    <RelativeLayout android:id="@+id/exit"
+         android:layout_width="fill_parent"
+         android:layout_height="40dp"
+         android:background="@drawable/start_bg">
+         <TextView android:id="@+id/oem_title" 
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textSize="18sp"
+                   android:gravity="center"
+                   android:layout_centerHorizontal="true"
+                   android:layout_centerVertical="true"
+                  android:textColor="#ffffff"
+                   android:text="@string/OEMInfo"
+                   />
+        <Button android:id="@+id/exit_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical|center_horizontal"
+            android:textSize="14sp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:background="@drawable/dlg_close_btn"
+           />
+    </RelativeLayout>
+    <ListView android:id="@+id/ome_listview"
+        android:layout_below="@+id/exit"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:divider="@drawable/start_bg"
+        android:dividerHeight="3dp"></ListView>
+
+</RelativeLayout>

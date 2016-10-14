@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu_frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/title_bar_txt"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:background="@drawable/start_bg">
+
+        <Button
+            android:id="@+id/bt_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="#778899"
+            android:text="@string/show_menu"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:text="首页"
+            android:textColor="#ffffff"
+            android:textSize="20sp" />
+
+        <RelativeLayout
+            android:id="@+id/welcome_bar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:id="@+id/wc_1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:gravity="center"
+                android:text="欢迎您,"
+                android:textColor="#cd0000"
+                android:textSize="12sp"
+                android:textStyle="italic" />
+
+            <TextView
+                android:id="@+id/user_show"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/wc_1"
+                android:gravity="center"
+                android:textColor="#cd0000"
+                android:textSize="12sp"
+                android:textStyle="italic" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <!-- 首页内容 -->
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@+id/title_bar_txt"
+        android:background="@drawable/start_bg">
+
+        <RelativeLayout
+            android:id="@+id/home_img"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:background="@drawable/register_activity_bg">
+
+            <ImageView
+                android:id="@+id/home_logo"
+                android:layout_width="60dp"
+                android:layout_height="60dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:background="@drawable/logo" />
+
+            <RelativeLayout
+                android:id="@+id/home_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/home_logo">
+
+                <TextView
+                    android:id="@+id/home_flag"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/home_flag"
+                    android:textColor="#cd7054"
+                    android:textSize="22sp"
+                    android:textStyle="bold|italic" />
+            </RelativeLayout>
+        </RelativeLayout>
+
+
+        <!-- 上次登录时间 -->
+        <RelativeLayout
+            android:id="@+id/pre_login_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/home_img"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:id="@+id/last_login_date_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="您上次的登录时间为："
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/date_show"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:textColor="#cd6600"
+                android:textSize="15sp" />
+        </RelativeLayout>
+        <!-- 本次登录时间 -->
+        <RelativeLayout
+            android:id="@+id/current_login_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/pre_login_date"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:id="@+id/login_date_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="您本次的登录时间为："
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/current_date_show"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hello"
+                android:textColor="#cd6600"
+                android:textSize="15sp"
+                android:layout_toRightOf="@+id/login_date_txt" />
+        </RelativeLayout>
+        <!-- 采购计划提醒 -->
+        <RelativeLayout
+            android:id="@+id/purchaplan_tip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/current_login_date"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:id="@+id/purchaplan_tip_txt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="您有"
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/purchaplan_tip_show"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/purchaplan_tip_txt"
+                android:textColor="#cd0000"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/purchaplan_tip_txt2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/purchaplan_tip_show"
+                android:text="条采购计划单需要审核"
+                android:textColor="#ffffff"
+                android:textSize="15sp" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

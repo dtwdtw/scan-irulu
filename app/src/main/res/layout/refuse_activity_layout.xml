@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#ffffff" >
+    <RelativeLayout android:id="@+id/refuse_title"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:background="@drawable/start_bg">
+         <TextView android:id="@+id/refuse_title_text" 
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textSize="18sp"
+                   android:gravity="center"
+                   android:layout_centerHorizontal="true"
+                   android:layout_centerVertical="true"
+                   android:text="@string/refuse_title_show"
+                   android:textColor="#ffffff"
+                   />
+    </RelativeLayout>
+    
+    <RelativeLayout android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/refuse_title"
+                    android:id="@+id/refuse_message"
+                   >
+                    <!-- 订单号 -->
+    <TextView android:id="@+id/number_item_table"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:textStyle="bold"
+                 android:text="@string/number"
+                 android:layout_marginLeft="40dp"
+                 android:layout_marginTop="10dp"
+                 />
+    <TextView android:id="@+id/number_item"
+              android:layout_toRightOf="@+id/number_item_table"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:layout_marginTop="10dp"
+                 />
+                  <!-- 金额 -->
+     <TextView android:id="@+id/money_item_table"
+                android:layout_below="@+id/number_item"
+                android:layout_alignRight="@+id/number_item_table"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical|right"
+                 android:textStyle="bold"
+                 android:text="@string/money" 
+                 android:layout_marginTop="10dp"
+                />
+     <TextView android:id="@+id/money_item"
+                 android:layout_toRightOf="@+id/money_item_table"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:layout_marginTop="10dp"
+                 android:layout_below="@+id/number_item"
+                />
+     <!-- 操作人 -->
+      <TextView android:id="@+id/op_person_item_table"
+                 android:textStyle="bold"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 
+                 android:gravity="center_vertical"
+                 android:text="@string/operating_personnel" 
+                 android:layout_below="@+id/money_item_table"
+                 android:layout_alignRight="@+id/money_item_table"
+                 android:layout_marginTop="10dp"
+                />
+     <TextView android:id="@+id/op_person_item"
+                 android:layout_toRightOf="@+id/op_person_item_table"
+                  android:layout_below="@+id/money_item_table"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:layout_marginTop="10dp"
+                />
+              <!-- 操作时间 -->
+      <TextView
+          android:id="@+id/create_time_item_table"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/op_person_item_table"
+           android:layout_alignRight="@+id/op_person_item_table"
+          android:text="@string/operating_date"
+          android:textColor="#000000"
+          android:textSize="14sp"
+          android:layout_marginTop="10dp"
+          android:textStyle="bold" />
+
+        <TextView android:id="@+id/create_time_item"
+                 android:layout_toRightOf="@+id/create_time_item_table"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_below="@+id/op_person_item_table"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                  android:paddingLeft="10dp"
+                  android:layout_marginTop="10dp"
+                />
+        <!-- 部门名称 -->
+         <TextView android:id="@+id/dept_name_item_table"
+                 android:layout_below="@+id/create_time_item_table"
+                 android:layout_alignRight="@+id/create_time_item_table"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:text="@string/dept_name" 
+                
+                 android:textStyle="bold"
+                 android:layout_marginTop="10dp"
+                />
+          <TextView android:id="@+id/dept_name_item"
+                 android:layout_toRightOf="@+id/dept_name_item_table"
+                 android:layout_below="@+id/create_time_item_table"
+                 android:layout_width="150dp"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                  android:paddingLeft="10dp"
+                  android:layout_marginTop="10dp"
+                />
+             <!-- 状态-->
+             <TextView android:id="@+id/refuse_state_table"
+                     android:layout_below="@+id/dept_name_item_table"
+                     android:layout_alignRight="@+id/dept_name_item_table"
+	                 android:layout_width="wrap_content"
+	                 android:layout_height="wrap_content"
+	                 android:textSize="14sp"
+	                 android:textColor="#000000"
+	                 android:text="@string/state" 
+	                 android:textStyle="bold"
+	                 android:gravity="center_vertical|right"
+	                 android:layout_marginTop="10dp"
+                />
+            <TextView android:id="@+id/refuse_state"
+                 android:layout_toRightOf="@+id/refuse_state_table"
+                  android:layout_below="@+id/dept_name_item_table"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:layout_marginTop="10dp"
+                />
+         <TextView android:layout_width="fill_parent"
+                    android:layout_height="10dp"
+                   
+                   android:layout_below="@+id/refuse_state_table"
+                    />    
+       </RelativeLayout>
+        <TextView android:id="@+id/refuse_title_message"
+             android:layout_below="@+id/refuse_message"
+                  android:layout_width="fill_parent"
+                  android:layout_height="40dp"
+                  android:background="@color/basic_information_title_color"
+                  android:text="@string/refuse_txt"
+                  android:gravity="center_vertical"
+                  android:paddingLeft="20dp"
+                  android:textColor="#d2691e">
+    </TextView>
+    <EditText android:id="@+id/refuse_edit_input"
+             android:layout_below="@+id/refuse_title_message"
+                  android:layout_width="fill_parent"
+                  android:layout_height="200dp"
+                  android:hint="@string/refuse_cause_edit"
+                  android:gravity="left"
+                  >
+    </EditText>
+      <!-- 事务按钮 -->
+      <RelativeLayout android:id="@+id/refuse_affair_layout"
+                   android:layout_below="@+id/refuse_edit_input"
+                     android:background="#c1cdc1"
+                     android:layout_width="fill_parent"
+                     android:layout_height="45dp" >
+   
+      <RelativeLayout android:id="@+id/refuse_affair"
+                     android:layout_centerVertical="true"
+                     android:layout_centerHorizontal="true"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content" >
+        
+          <Button  
+                 android:id="@+id/refuse_button"
+                 android:layout_width="45dp"
+                 android:layout_height="30dp"
+                 android:text="@string/OK"
+                 android:gravity="center"
+                 android:textSize="14sp"
+                 android:textColor="#ffffff"
+                 android:background="@drawable/review_button_selector"
+                 android:layout_alignParentLeft="true"
+                 android:layout_centerVertical="true"
+                 />
+           <Button  
+                 android:id="@+id/refuse_cancle_button"
+                 android:layout_toRightOf="@+id/refuse_button"
+                 android:layout_marginLeft="50dp"
+                 android:layout_width="45dp"
+                 android:layout_height="30dp"
+                 android:text="@string/return_btn"
+                 android:gravity="center"
+                 android:textSize="14sp"
+                 android:textColor="#ffffff"
+                  android:background="@drawable/review_button_selector"
+                 android:layout_centerVertical="true"
+                 />
+         </RelativeLayout>
+      </RelativeLayout>
+</RelativeLayout>

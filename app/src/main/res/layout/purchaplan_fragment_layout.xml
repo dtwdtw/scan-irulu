@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/menu_frame"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffeeff"
+    android:orientation="vertical" >
+   <include layout="@layout/title_layout" android:id="@+id/title_bar"/>
+  <RelativeLayout 
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:background="#ffa07a"
+    android:id="@+id/search_layout" >
+    <!-- 搜索框布局 -->
+   <Button  
+       android:id="@+id/search_button"
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_alignParentRight="true"
+       android:layout_centerVertical="true"
+       android:layout_marginRight="10dp"
+      android:background="@drawable/search_button_selector"
+       android:textSize="14sp"
+       android:textStyle="bold"
+       />
+   <RelativeLayout 
+       android:id="@+id/input_box"
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:layout_centerVertical="true"
+       android:gravity="center_vertical"
+       android:layout_marginLeft="10dp"
+       android:layout_toLeftOf="@+id/search_button">
+       <EditText android:id="@+id/etSearch"
+           android:layout_width="fill_parent"
+           android:layout_height="wrap_content"
+           android:singleLine="true"
+           android:layout_marginRight="10dp"
+           android:paddingLeft="32dp"
+           android:textSize="14sp" 
+           android:hint="@string/input_tips"/>
+       <ImageView 
+           android:id="@+id/delete_text_img"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_alignParentRight="true"
+           android:src="@drawable/ic_launcher"
+           android:layout_centerInParent="true"
+           android:visibility="gone"  />
+   </RelativeLayout>
+
+</RelativeLayout>
+    <TextView android:layout_width="fill_parent"
+                    android:layout_height="3dp"
+                    android:background="@drawable/start_bg"
+                    android:id="@+id/line"
+                    />
+   <FrameLayout android:id="@+id/fram_layout"
+       android:layout_width="fill_parent"
+          android:layout_height="fill_parent"
+           android:layout_below="@+id/table_title">
+    <ListView android:id="@+id/listview"
+          android:layout_width="fill_parent"
+          android:layout_height="match_parent"
+          android:divider="@drawable/start_bg"
+          android:background="@drawable/manual_bg"
+          android:dividerHeight="5dp"
+          android:cacheColorHint="#00000000"
+          ></ListView>
+    <TextView android:id="@+id/no_data_tip"
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent"
+          android:background="#ffffff"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:textColor="#000000"
+          android:hint="@string/no_data_tip"
+          android:textStyle="italic"
+          android:textSize="16sp"/>
+    <TextView android:id="@+id/find_no_data_tip"
+          android:layout_width="fill_parent"
+          android:layout_height="fill_parent"
+          android:background="#ffffff"
+          android:layout_gravity="center"
+          android:gravity="center"
+          android:textColor="#000000"
+          android:hint="@string/find_no_data_tip"
+          android:textStyle="italic"
+          android:textSize="16sp"/>
+    </FrameLayout>
+</LinearLayout>

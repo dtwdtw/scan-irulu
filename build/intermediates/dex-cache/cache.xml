@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/UserLogin/slidingMenu/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1c3c6a7737c61ac5b3dd611023993c584774c34d">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/pre-dexed/debug/UserLogin-slidingMenu-unspecified_9205c37dfafb24217a186f4dafb0b796081b31a3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_fec749d12df1044ee668187dd8e523809e75ae2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_c65d019293feb20a112e2f7e23ffea73fec7548e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_14ad10654ea74a238a4372cd314c91002e6c8326.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_cce1ab9422293682b3ae93da4e6aae7174e535ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/pre-dexed/debug/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_c65d019293feb20a112e2f7e23ffea73fec7548e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_9dd4fa5104fe592a32053a91908e78ff15e077ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_f93be2a59d91afc485844d9c1f6ac530774f614d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_9dd4fa5104fe592a32053a91908e78ff15e077ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/pre-dexed/debug/gson-2.7_af19874c7e95ebda6e20dc198f20c028733b7f63.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_cce1ab9422293682b3ae93da4e6aae7174e535ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7fb1b404dbc7bc66a48cde911b3820a4eec0b9b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3245b18e2a61ca727fadf83c3b3b8f0bd7b104e8">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_adf422f24069f64351db7c861753cfa0cb39084c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_f93be2a59d91afc485844d9c1f6ac530774f614d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_7fb1b404dbc7bc66a48cde911b3820a4eec0b9b0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_14ad10654ea74a238a4372cd314c91002e6c8326/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_fec749d12df1044ee668187dd8e523809e75ae2b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_af19874c7e95ebda6e20dc198f20c028733b7f63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dtw/UserLogin/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9d83d89d01936ebae664a46d4f34b7db1687a242">
+        <dex dex="/Users/dtw/UserLogin/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1d93166c8794bc56f164f218e9e3eb34fa3c8d8f/classes.dex" />
+    </item>
+
+</items>

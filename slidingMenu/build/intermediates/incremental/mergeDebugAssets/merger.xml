@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/dtw/scan-irulu/slidingMenu/src/main/assets"/><source path="/Users/dtw/scan-irulu/slidingMenu/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/dtw/scan-irulu/slidingMenu/src/debug/assets"/></dataSet></merger>

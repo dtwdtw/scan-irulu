@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+     >
+   
+    <RelativeLayout android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/frist_line">
+                    <!-- 订单号 -->
+    <TextView android:id="@+id/number_item_table"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:textStyle="bold"
+                 android:text="@string/number"
+                 android:layout_marginLeft="40dp"
+                 android:layout_marginTop="10dp"
+                 />
+    <TextView android:id="@+id/number_item"
+              android:layout_toRightOf="@+id/number_item_table"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:layout_marginTop="10dp"
+                 />
+                  <!-- 金额 -->
+     <TextView android:id="@+id/money_item_table"
+                android:layout_below="@+id/number_item_table"
+                android:layout_alignRight="@+id/number_item_table"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical|right"
+                 android:textStyle="bold"
+                 android:text="@string/money" 
+                 android:layout_marginTop="10dp"
+                />
+     <TextView android:id="@+id/money_item"
+                 android:layout_toRightOf="@+id/money_item_table"
+                 android:layout_below="@+id/number_item"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:layout_marginTop="10dp"
+                />
+     <!-- 操作人 -->
+      <TextView android:id="@+id/op_person_item_table"
+                 android:textStyle="bold"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 
+                 android:gravity="center_vertical"
+                 android:text="@string/operating_personnel" 
+                 android:layout_below="@+id/money_item_table"
+                 android:layout_alignRight="@+id/money_item_table"
+                 android:layout_marginTop="10dp"
+                />
+     <TextView android:id="@+id/op_person_item"
+                 android:layout_toRightOf="@+id/op_person_item_table"
+                  android:layout_below="@+id/money_item"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:layout_marginTop="10dp"
+                />
+              <!-- 操作时间 -->
+
+      <TextView
+          android:id="@+id/create_time_item_table"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/op_person_item_table"
+         android:layout_alignRight="@+id/op_person_item_table"
+          android:text="@string/create_time"
+          android:textColor="#000000"
+          android:textSize="14sp"
+          android:layout_marginTop="10dp"
+          android:textStyle="bold" />
+
+        <TextView android:id="@+id/create_time_item"
+                 android:layout_toRightOf="@+id/create_time_item_table"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_below="@+id/op_person_item_table"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                  android:paddingLeft="10dp"
+                  android:layout_marginTop="10dp"
+                />
+        <!-- 部门名称 -->
+         <TextView android:id="@+id/dept_name_item_table"
+                 android:layout_below="@+id/create_time_item_table"
+                 android:layout_alignRight="@+id/create_time_item_table"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:text="@string/dept_name" 
+                 
+                 android:textStyle="bold"
+                 android:layout_marginTop="10dp"
+                />
+          <TextView android:id="@+id/dept_name_item"
+                 android:layout_toRightOf="@+id/dept_name_item_table"
+                 android:layout_below="@+id/create_time_item_table"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                  android:paddingLeft="10dp"
+                  android:layout_marginTop="10dp"
+                />
+          <!-- 操作状态 -->
+           <TextView android:id="@+id/state_item_table"
+                     android:layout_below="@+id/dept_name_item_table"
+                     android:layout_alignRight="@+id/dept_name_item_table"
+	                 android:layout_width="wrap_content"
+	                 android:layout_height="wrap_content"
+	                 android:textSize="14sp"
+	                 android:textColor="#000000"
+	                 android:text="@string/state" 
+	                 android:textStyle="bold"
+	                 android:gravity="center_vertical"
+	                 android:layout_marginTop="10dp"
+                />
+            <TextView android:id="@+id/state_item"
+                 android:layout_toRightOf="@+id/state_item_table"
+                  android:layout_below="@+id/dept_name_item_table"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:layout_marginTop="10dp"
+                />
+            
+            <!-- 备注 -->
+            <TextView android:id="@+id/remark_item_table"
+                  android:layout_below="@+id/state_item_table"
+                     android:layout_alignRight="@+id/state_item_table"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:layout_marginTop="10dp"
+                 android:textStyle="bold"
+                 android:text="@string/remarks"
+                 />
+            
+            <TextView android:id="@+id/remark_item"
+                 android:layout_toRightOf="@+id/remark_item_table"
+                 android:layout_below="@+id/state_item"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:textSize="14sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:singleLine="true"
+                android:layout_marginTop="10dp"
+                 android:paddingLeft="10dp"
+                />
+         <TextView android:layout_width="fill_parent"
+                    android:layout_height="10dp"
+                   
+                   android:layout_below="@+id/remark_item"
+                    />    
+       </RelativeLayout>
+
+</RelativeLayout>

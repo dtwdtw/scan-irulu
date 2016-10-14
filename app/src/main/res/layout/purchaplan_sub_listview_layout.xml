@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="#ffffff" >
+     <TextView android:layout_width="fill_parent"
+                    android:layout_height="3dp"
+                    android:background="@color/divider_color"
+                    />
+  <!-- 供应商名称 -->
+               <TextView
+          android:id="@+id/OEMName_item_table"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/SevenSaleQuantity_item_table"
+          android:text="@string/OEMName"
+          android:textColor="#000000"
+          android:textSize="12sp"
+          android:layout_alignRight="@+id/SaleStock_item_table"
+          android:gravity="right"
+          android:layout_marginLeft="40dp"
+          android:layout_marginTop="10dp"
+          android:textStyle="bold" />
+
+        <TextView android:id="@+id/OEMName_item"
+                 android:layout_toRightOf="@+id/OEMName_item_table"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_below="@+id/SevenSaleQuantity_item_table"
+                 android:textSize="12sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:singleLine="true"
+                 android:layout_marginTop="10dp"
+                />
+        
+         <!-- 单价 -->
+               <TextView
+          android:id="@+id/UnitPrice_item_table"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/OEMName_item_table"
+          android:text="@string/UnitPrice"
+          android:textColor="#000000"
+          android:textSize="12sp"
+          android:layout_alignRight="@+id/OEMName_item_table"
+          android:gravity="right"
+          android:layout_marginTop="10dp"
+          android:textStyle="bold" />
+
+        <TextView android:id="@+id/UnitPrice_item"
+                 android:layout_toRightOf="@+id/UnitPrice_item_table"
+                 android:layout_width="150dp"
+                 android:layout_height="wrap_content"
+                 android:layout_below="@+id/OEMName_item_table"
+                 android:textSize="12sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:singleLine="true"
+                 android:layout_marginTop="10dp"
+                />
+        
+         <!-- 含税-->
+               <TextView
+          android:id="@+id/isTaxFree_item_table"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/OEMName_item_table"
+          android:layout_toRightOf="@+id/UnitPrice_item"
+          android:text="@string/isTaxFree"
+          android:textColor="#000000"
+          android:textSize="12sp"
+          android:layout_alignRight="@+id/SevenSaleQuantity_item_table"
+          android:gravity="right"
+          android:layout_marginTop="10dp"
+          android:textStyle="bold" />
+
+        <CheckBox
+            android:id="@+id/isTaxFree_item"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/isTaxFree_item_table"
+            android:layout_alignBottom="@+id/isTaxFree_item_table"
+            android:layout_alignParentRight="true"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="12sp" />
+        
+         <!-- 币种 -->
+               <TextView
+          android:id="@+id/Currency_item_table"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/UnitPrice_item_table"
+          android:text="@string/Currency"
+          android:textColor="#000000"
+          android:textSize="12sp"
+          android:layout_alignRight="@+id/UnitPrice_item_table"
+          android:gravity="right"
+          android:layout_marginTop="10dp"
+          android:textStyle="bold" />
+
+        <TextView android:id="@+id/Currency_item"
+                 android:layout_toRightOf="@+id/Currency_item_table"
+                 android:layout_width="150dp"
+                 android:layout_height="wrap_content"
+                 android:layout_below="@+id/UnitPrice_item_table"
+                 android:textSize="12sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                 android:paddingLeft="10dp"
+                 android:singleLine="true"
+                 android:layout_marginTop="10dp"
+                />
+
+          <!--预计到货日期-->
+               <TextView
+          android:id="@+id/PredictDeliveryDate_item_table"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/isTaxFree_item_table"
+          android:layout_toRightOf="@+id/Currency_item_table"
+          android:text="@string/PredictDeliveryDate"
+          android:textColor="#000000"
+          android:textSize="12sp"
+          android:layout_alignRight="@+id/isTaxFree_item_table"
+          android:gravity="right"
+          android:layout_marginTop="10dp"
+          android:textStyle="bold" />
+
+        <TextView android:id="@+id/PredictDeliveryDate_item"
+                 android:layout_toRightOf="@+id/PredictDeliveryDate_item_table"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_below="@+id/isTaxFree_item_table"
+                 android:textSize="12sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                  android:paddingLeft="10dp"
+                  android:layout_marginTop="10dp"
+                />
+        <!-- 单个供应商采购数量 -->
+               <TextView
+          android:id="@+id/Quantity_item_table"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_below="@+id/PredictDeliveryDate_item_table"
+          android:text="@string/Quantity"
+          android:textColor="#000000"
+          android:textSize="12sp"
+          android:layout_alignRight="@+id/Currency_item_table"
+          android:gravity="right"
+          android:layout_marginTop="10dp"
+          android:textStyle="bold" />
+
+        <TextView android:id="@+id/Quantity_item"
+                 android:layout_toRightOf="@+id/Quantity_item_table"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:layout_below="@+id/PredictDeliveryDate_item_table"
+                 android:textSize="12sp"
+                 android:textColor="#000000"
+                 android:gravity="center_vertical"
+                  android:paddingLeft="10dp"
+                  android:layout_marginTop="10dp"
+                />
+        <TextView android:layout_width="fill_parent"
+                    android:layout_height="10dp"
+                   android:layout_below="@+id/Quantity_item_table"
+                    />   
+</RelativeLayout>
