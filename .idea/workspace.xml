@@ -1,347 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d63b976-69e8-4372-acbc-3b24f8bfd3da" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_slidingMenu_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_slidingMenu_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_slidingMenu_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_slidingMenu_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_slidingMenu_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_slidingMenu_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_slidingMenu_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_slidingMenu_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_slidingMenu_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_slidingMenu_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_slidingMenu_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_slidingMenu_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_slidingMenu_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_slidingMenu_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_slidingMenu_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_slidingMenu_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/back_bt_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/back_bt_p.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/default_ptr_rotate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/dlg_close_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/login_bt_n.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/login_bt_p.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/login_in_btn_default.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/login_in_pressed.9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/manual_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/progress_img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/register_activity_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/search_focus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/search_normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/start_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/mockable-android-19.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/api-versions-8-24.0.3.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/typos-de.txt-2.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/typos-en.txt-2.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/typos-es.txt-2.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/typos-hu.txt-2.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/typos-it.txt-2.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/typos-nb.txt-2.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/typos-pt.txt-2.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/lint-cache/typos-tr.txt-2.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/release/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CanvasTransformerBuilder$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CanvasTransformerBuilder$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CanvasTransformerBuilder$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CanvasTransformerBuilder$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CanvasTransformerBuilder$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CanvasTransformerBuilder$6.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CanvasTransformerBuilder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CustomViewAbove$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CustomViewAbove$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CustomViewAbove$OnPageChangeListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CustomViewAbove$SimpleOnPageChangeListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CustomViewAbove.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/CustomViewBehind.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/MenuInterface.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/R$id.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/R$styleable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/SlidingMenu$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/SlidingMenu$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/SlidingMenu$CanvasTransformer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/SlidingMenu$OnCloseListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/SlidingMenu$OnClosedListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/SlidingMenu$OnOpenListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/SlidingMenu$OnOpenedListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/SlidingMenu$SavedState$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/SlidingMenu$SavedState.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/SlidingMenu.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/app/SlidingActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/app/SlidingActivityBase.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/app/SlidingActivityHelper$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/app/SlidingActivityHelper.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/app/SlidingFragmentActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/app/SlidingListActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/classes/release/com/slidingmenu/lib/app/SlidingPreferenceActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/compileDebugAidl/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/compileReleaseAidl/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/outputs/aar/slidingMenu-debug.aar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/outputs/aar/slidingMenu-release.aar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/txn-current-lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/write-lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/org_jbundle_util_osgi_wrapped_org_apache_http_client_4_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_19_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_23_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/UserLogin.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/Login/UserLogin/ApplicationTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Login/UserLogin/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/API.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/LoginActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/MainActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/OEMInfoActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/PassReviewActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/RefuseActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/ReviewActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/PlanLogAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/PurchaPlanAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/PurchaPlanDetailAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/SubPurchaPlanDetailAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/HttpUtils/HttpUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/HttpUtils/JsonUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/HttpUtils/MyReceiver.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/OEMInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/PlanLogInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/PurchaPlanDetailInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/PurchaPlanInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/UserInfo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/AlertDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/Const.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/MyListView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/MyPopupWindow.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/application/myApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/ContentFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/HomePageFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/MenuFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PlaceOrderFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PurchArrivalFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PurchOrderFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PurchaPlanFragment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/view/LoadingDialog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/view/RotateImage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/anim/current_activity_close.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/anim/into_current_activity_close.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/anim/next_activity_open.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/anim/pre_current_activity_open.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/shadow.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_button_default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_button_press.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/circle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/listview_selctor.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/page_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/return_button_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/review_button_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/search_button_selector.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/textview_selctor.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/alert_dialog_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_fragment_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frame_content.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frame_menu.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/login.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/main_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_fragment_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_item_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_item_layout_yi.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/oem_item_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/oem_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/pass_review_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/placeorder_fragment_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/plan_log_item_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/popup.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/popup_item.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/progress_dialog_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purcha_dialog_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_adapter_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_detail_adapter_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_fragment_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_sub_listview_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purcharrival_fragment_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purchorder_fragment_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/refuse_activity_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/review_activity_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/review_title_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/search_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/title_layout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/login.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-sw600dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-sw720dp-land/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-v11/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/color.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/test/java/com/Login/UserLogin/ExampleUnitTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import-summary.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/projectFilesBackup/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scan-irulu.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/generated/source/buildConfig/androidTest/debug/com/slidingmenu/lib/test/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/generated/source/buildConfig/debug/com/slidingmenu/lib/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/generated/source/buildConfig/release/com/slidingmenu/lib/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/generated/source/r/androidTest/debug/com/slidingmenu/lib/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/generated/source/r/androidTest/debug/com/slidingmenu/lib/test/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/generated/source/r/debug/com/slidingmenu/lib/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/generated/source/r/release/com/slidingmenu/lib/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/blame/res/androidTest/debug/single/layout.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/debug/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/debug/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/release/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/release/res/layout/slidingmenumain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/release/res/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental-safeguard/release/tag.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/mergeReleaseShaders/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/packageDebugResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/packageReleaseResources/compile-file-map.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/packageReleaseResources/merged.dir/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/incremental/packageReleaseResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/manifests/aapt/release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/res/merged/androidTest/debug/layout/slidingmenumain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/res/merged/androidTest/debug/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/symbols/androidTest/debug/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/lint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/slidingMenu.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/CanvasTransformerBuilder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/CustomViewAbove.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/CustomViewBehind.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/MenuInterface.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/SlidingMenu.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingActivityBase.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingActivityHelper.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingFragmentActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingListActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingMapActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingPreferenceActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/res/layout/slidingmenumain.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/res/values/attrs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slidingMenu/src/main/res/values/ids.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/conf/authz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/conf/passwd" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/conf/svnserve.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/current" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/format" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/fs-type" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/fsfs.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/min-unpacked-rev" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/revprops/0/0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/revs/0/0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/txn-current" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/db/uuid" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/format" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/hooks/post-commit.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/hooks/post-lock.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/hooks/post-revprop-change.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/hooks/post-unlock.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/hooks/pre-commit.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/hooks/pre-lock.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/hooks/pre-revprop-change.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/hooks/pre-unlock.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/hooks/start-commit.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/locks/db-logs.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wanfangscangun/locks/db.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/LoginActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/LoginActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/OEMInfoActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/OEMInfoActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/PassReviewActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/PassReviewActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/RefuseActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/RefuseActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/ReviewActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/ReviewActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/PlanLogAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/PlanLogAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/PurchaPlanAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/PurchaPlanAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/PurchaPlanDetailAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/PurchaPlanDetailAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/SubPurchaPlanDetailAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Adapter/SubPurchaPlanDetailAdapter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/HttpUtils/HttpUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/HttpUtils/HttpUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/HttpUtils/JsonUtils.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/HttpUtils/JsonUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/HttpUtils/MyReceiver.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/HttpUtils/MyReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/OEMInfo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/OEMInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/PlanLogInfo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/PlanLogInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/PurchaPlanDetailInfo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/PurchaPlanDetailInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/PurchaPlanInfo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/PurchaPlanInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/UserInfo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/JavaBean/UserInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/AlertDialog.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/AlertDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/Const.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/Const.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/MyListView.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/MyListView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/MyPopupWindow.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/Util/MyPopupWindow.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/application/myApplication.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/application/myApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/ContentFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/ContentFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/HomePageFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/HomePageFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/MenuFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/MenuFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PlaceOrderFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PlaceOrderFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PurchArrivalFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PurchArrivalFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PurchOrderFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PurchOrderFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PurchaPlanFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/frament/PurchaPlanFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/view/LoadingDialog.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/view/LoadingDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/wanfang/view/RotateImage.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/wanfang/view/RotateImage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/current_activity_close.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/current_activity_close.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/into_current_activity_close.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/into_current_activity_close.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/next_activity_open.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/next_activity_open.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/pre_current_activity_open.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/pre_current_activity_open.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/shadow.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/shadow.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_button_default.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_button_default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bg_button_press.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_button_press.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/button_selector.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/button_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/circle.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/circle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/listview_selctor.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/listview_selctor.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/page_selector.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/page_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/return_button_selector.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/return_button_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/review_button_selector.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/review_button_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/search_button_selector.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/search_button_selector.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/textview_selctor.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/textview_selctor.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/alert_dialog_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/alert_dialog_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_fragment_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_fragment_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frame_content.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frame_content.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/frame_menu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/frame_menu.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/login.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/main_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/main_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/menu_fragment_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_fragment_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/menu_item_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/menu_item_layout_yi.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/menu_item_layout_yi.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/oem_item_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/oem_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/oem_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/oem_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/pass_review_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/pass_review_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/placeorder_fragment_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/placeorder_fragment_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/plan_log_item_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/plan_log_item_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/popup.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/popup.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/popup_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/popup_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/purcha_dialog_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purcha_dialog_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_adapter_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_adapter_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_detail_adapter_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_detail_adapter_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_fragment_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_fragment_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_sub_listview_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purchaplan_sub_listview_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/purcharrival_fragment_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purcharrival_fragment_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/purchorder_fragment_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/purchorder_fragment_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/refuse_activity_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/refuse_activity_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/review_activity_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/review_activity_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/review_title_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/review_title_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/search_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/search_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/title_layout.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/title_layout.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/login.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/login.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-sw600dp/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-sw600dp/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-sw720dp-land/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-sw720dp-land/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-v11/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v11/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/color.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/color.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/debug/res/layout/slidingmenumain.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/release/res/layout/slidingmenumain.xml" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/bundles/release/res/layout/slidingmenumain.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/build/intermediates/res/merged/androidTest/debug/layout/slidingmenumain.xml" afterPath="$PROJECT_DIR$/slidingMenu/build/intermediates/res/merged/androidTest/debug/layout/slidingmenumain.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/lint.xml" afterPath="$PROJECT_DIR$/slidingMenu/lint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/slidingMenu/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/CanvasTransformerBuilder.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/CanvasTransformerBuilder.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/CustomViewAbove.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/CustomViewAbove.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/CustomViewBehind.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/CustomViewBehind.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/MenuInterface.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/MenuInterface.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/SlidingMenu.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/SlidingMenu.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingActivity.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingActivityBase.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingActivityBase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingActivityHelper.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingActivityHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingFragmentActivity.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingFragmentActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingListActivity.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingListActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingMapActivity.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingMapActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingPreferenceActivity.java" afterPath="$PROJECT_DIR$/slidingMenu/src/main/java/com/slidingmenu/lib/app/SlidingPreferenceActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/res/layout/slidingmenumain.xml" afterPath="$PROJECT_DIR$/slidingMenu/src/main/res/layout/slidingmenumain.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/res/values/attrs.xml" afterPath="$PROJECT_DIR$/slidingMenu/src/main/res/values/attrs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/slidingMenu/src/main/res/values/ids.xml" afterPath="$PROJECT_DIR$/slidingMenu/src/main/res/values/ids.xml" />
     </list>
     <ignored path="scan-irulu.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -371,7 +145,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/LoginActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="366" column="44" selection-start-line="366" selection-start-column="44" selection-end-line="366" selection-end-column="44" />
+              <caret line="366" column="78" selection-start-line="366" selection-start-column="78" selection-end-line="366" selection-end-column="78" />
               <folding />
             </state>
           </provider>
@@ -3184,11 +2958,19 @@
       <option name="presentableId" value="Default" />
       <updated>1476410289837</updated>
     </task>
+    <task id="LOCAL-00001" summary="创建">
+      <created>1476433682248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1476433682248</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="181" y="88" width="1638" height="874" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3200,7 +2982,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298153" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -3238,6 +3020,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -3263,7 +3047,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/wanfang/Activity/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="366" column="44" selection-start-line="366" selection-start-column="44" selection-end-line="366" selection-end-column="44" />
+          <caret line="366" column="78" selection-start-line="366" selection-start-column="78" selection-end-line="366" selection-end-column="78" />
           <folding />
         </state>
       </provider>
